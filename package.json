@@ -1,0 +1,27 @@
+{
+  "name": "protractorjasmine",
+  "version": "1.0.0",
+  "description": "Protractor Jasmine sample project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vishwa Vijetha",
+  "license": "ISC",
+  "dependencies": {
+    "protractor": "^7.0.0",
+    "winston": "^3.3.3",
+    "fs-extra": "^9.0.1",
+    "typescript": "^3.8.3",
+    "jasmine-spec-reporter": "4.2.1",
+    "xmldoc": "^1.1.2",
+    "protractor-html-reporter-2": "^1.0.4",
+    "jasmine-reporters": "^2.3.2",
+    "protractor-jasmine-retry": "^1.0.1",
+    "ts-node": "4.1.0",
+    "@types/jasmine": "2.8.3",
+    "@types/node": "^16.10.2",
+    "tslib": "1.10.0",
+    "tslint": "5.9.1"
+  }
+}

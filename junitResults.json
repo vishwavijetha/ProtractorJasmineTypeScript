@@ -1,0 +1,11 @@
+[
+  {
+    "description": "Orange HRM Suite Assign Leave",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 17485
+  }
+]
